@@ -171,5 +171,4 @@ patient_vitals_api/
 
 - Everything is in memory, so a restart wipes the data.
 - No login. Anyone who can reach the server can use it.
-- It does not check that systolic is higher than diastolic, because the task did not ask for it.
 - Use made-up data only, not real patient information.
